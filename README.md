@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaagaj-bottle
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning ... things
+- 🌱 I’m currently making mostly personal projects using **MERN** 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : zishansiddique585@gmail.com
 
